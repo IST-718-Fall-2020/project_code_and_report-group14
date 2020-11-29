@@ -1,7 +1,7 @@
 ﻿price,year,condition,odometer,cylinders,title_status,fuel_index,transmissionVec_index,typeVec_index,Drive_index,Paint_color_index
-15590,2017,good,27201,4,clean,0,0,1,0,0
-16990,2017,good,45406,4,clean,0,0,1,1,4
-31990,2016,good,21869,6,clean,0,0,0,1,0
-31990,2016,good,30615,8,clean,0,0,convertible,2,4
-21990,2015,good,66192,4,clean,0,0,coupe,1,0
-14590,2014,good,85976,4,clean,0,0,0,0,1
+15590,2017,good,27201,4,excellent,0,0,1,0,0
+16990,2017,good,45406,4,excellent,0,0,1,1,4
+31990,2016,good,21869,6,excellent,0,0,0,1,0
+31990,2016,good,30615,8,excellent,0,0,8,2,4
+21990,2015,good,66192,4,excellent,0,0,4,1,0
+14590,2014,good,85976,4,excellent,0,0,0,0,1
